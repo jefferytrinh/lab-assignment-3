@@ -31,12 +31,21 @@ This is a Python-based multiple-choice quiz program that presents users with 5 q
 
 ## Sample Output
 Welcome to the Simple Quiz!
+
 Which national team recently won the World Cup in 2022?
+
 A) Brazil
+
 B) France
+
 C) Argentina
+
 D) Italy
+
 Put your answer (A, B, C, or D): C
+
 Correct!
+
 Your final score is 4 out of 5.
+
 Your score has been saved to quiz_score.txt. Thank you for playing!
