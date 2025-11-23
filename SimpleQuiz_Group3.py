@@ -1,7 +1,12 @@
 # Simple Quiz
 # This program gives 5 multiple choice questions and ask the user for the answer.
 # It marks the quiz and saves the score to a text file.
-
+#Key Improvements Added:
+#Enhanced input validation​ using regex
+#Attempt limits​ (3 attempts per question)
+#Better user feedback​ with remaining attempts
+#Improved score file​ with percentage and timestamp
+#Better formatting​ with separators and clear sections
 import re
 
 def load_questions():
