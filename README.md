@@ -2,7 +2,7 @@
 
 ## Group Members
 - Brandon Ortiz-Nguyen 301535364
-- Jeffery Trinh
+- Jeffery Trinh 301522695
 - Wenyang Li 301282155
 
 
