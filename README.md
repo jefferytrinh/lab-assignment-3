@@ -1,8 +1,8 @@
 # Lab Assignment 3 - Simple Quiz
 
 ## Group Members
-- Brandon Ortiz-Nguyen
-- Jeffery Trinh
+- Brandon Ortiz-Nguyen 301535364
+- Jeffery Trinh 301522695
 - Wenyang Li 301282155
 
 
