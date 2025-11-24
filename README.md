@@ -49,3 +49,10 @@ Correct!
 Your final score is 4 out of 5.
 
 Your score has been saved to quiz_score.txt. Thank you for playing!
+
+#<img width="947" height="244" alt="Screenshot 2025-11-23 174410" src="https://github.com/user-attachments/assets/7da700b0-e841-4bd5-b3ec-ab5d8b8a3076" />
+
+<img width="703" height="164" alt="Screenshot 2025-11-23 183645" src="https://github.com/user-attachments/assets/aa696a02-593f-4fe4-ae2a-1e4d0f01e6da" />
+
+<img width="1477" height="521" alt="Screenshot 2025-11-23 185303" src="https://github.com/user-attachments/assets/3b16ff7c-ad3b-4d71-b333-775d6f293c99" />
+
